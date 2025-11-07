@@ -1,7 +1,7 @@
 import { Mail, Phone, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import heroImage from "@/assets/hero-supply-chain.jpg";
-import supplyChainVideo from "@/assets/logistics.webm";
+import supplyChainVideo from "@/assets/Logistics.webm";
 import { useEffect, useState } from "react";
 
 const Hero = () => {
